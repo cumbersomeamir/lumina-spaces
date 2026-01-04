@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Spaces AI",
+  "description": "An intelligent interior design consultant that reimagines your living spaces using advanced AI. Upload a photo, swap styles, and chat with an expert designer to refine every detail.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
